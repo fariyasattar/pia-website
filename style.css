@@ -130,7 +130,7 @@ button{
 .home-banner-image{
   width: 100%;
   height: 70vh;
-  background: url(/images/UMRAH-banner.jpg);
+  background: url(images/UMRAH-banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -707,7 +707,7 @@ button{
     width: 100%;
     height: 60vh;
     padding: 1.25rem;
-    background: linear-gradient(to right, rgba(0, 168, 107, 0.3) 0%, rgba(0, 102, 74, 0.8) 100%), url(/images/piasub.png);
+    background: linear-gradient(to right, rgba(0, 168, 107, 0.3) 0%, rgba(0, 102, 74, 0.8) 100%), url(images/piasub.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -843,7 +843,7 @@ button{
 }
 
 .cta-news{
-  background: url(/images/download.jpg);
+  background: url(images/download.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -941,7 +941,7 @@ button{
 }
 
 footer{
-  background: url(/images/wave2.svg);
+  background: url(images/wave2.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -962,7 +962,7 @@ footer{
 }
 
 .footer-images{
-  background: url(/images/footerstamp.svg);
+  background: url(images/footerstamp.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right top;
